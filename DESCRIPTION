@@ -1,0 +1,16 @@
+Package: occCompareExp
+Type: Package
+Title: Experiments for manuscript "In-depth comparisons of MaxEnt, biased SVM and one-class SVM for one-class classification of remote sensing data"
+Version: 0.1.0
+Date: 2016-09-05
+Author: Benjamin Mack
+Maintainer: Benjamin Mack <ben8mack@gmail.com>
+Description: Package used to create the results for the manuscript 
+  "In-depth comparisons of MaxEnt, biased SVM and one-class SVM for one-class classification of remote sensing data"
+  (submitted to Remote Sensing Letters).
+License: MIT
+Depends:
+  occCompare
+Imports:
+  raster
+RoxygenNote: 5.0.1
